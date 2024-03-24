@@ -5,6 +5,6 @@ def dot_product(a,b):
 	return sum
 
 a = [int(x) for x in input().split()]
-b = [int(x) for x in input().split()]
+b = [int(z) for z in input().split()]
 dot = dot_product(a,b)
 print(dot)
