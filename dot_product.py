@@ -4,7 +4,8 @@ def dot_product(a,b):
 		sum += a[i] * b[i]
 	return sum
 
-a = [int(x) for x in input().split()]
-b = [int(z) for z in input().split()]
-dot = dot_product(a,b)
+arr1 = [int(x) for x in input().split()]
+arr2 = [int(y) for y in input().split()]
+dot = dot_product(arr1,arr2)
+
 print(dot)
