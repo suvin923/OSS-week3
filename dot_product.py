@@ -11,3 +11,4 @@ dot = dot_product(arr1,arr2)
 print(dot)
 
 print("201802988 컴퓨터전자시스템공학부 이현철")
+print("안수빈 왔다감")
